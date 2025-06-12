@@ -19,6 +19,12 @@
   <li><strong>Collaboration & Leadership</strong> – I have led frontend teams, mentored junior developers, and worked cross-functionally with designers and backend engineers to deliver polished products.</li>
   <li><strong>CI/CD & DevOps Integration</strong> – I am proficient in automating deployment workflows using Vercel, Netlify, and GitHub Actions.</li>
 </ul>
+<p>Some of the project i have built includes:</p>
+<ul>
+  <li>  <a href="https://market.sabi.am/" target="_blank" rel="noreferrer"> 🌾 Sabi Market   </a> – I coordinated the frontend development of the sabi digital marketplace connecting farmers and buyers, focusing on intuitive UI components, smooth data fetching, and responsive design.</li>
+      <li>  <a href="https://www.katsumfb.com/" target="_blank" rel="noreferrer"> 🌾 Sabi Market   </a> – 🏦 Katsu Microfinance Bank – I worked on a financial services platform, collaborating with backend teams to integrate APIs and enforce a consistent, maintainable component architecture.</li>
+    <li>  <a href="https://reseller.hydrogenpay.com/" target="_blank" rel="noreferrer"> 🌾 Hydrogen Merchant Portal   </a> – 🏦 Built and maintained 3 production-scale portals — Wallet, Reseller App (reseller.hydrogenpay.com), and Reseller Back-Office — using Next.js and TypeScript, serving over 500,000+ active users with responsive, high- performance UIs.</li>
+</ul>
 <p>🌍 I'm based in Nigeria</p>
 <p>✉️ You can contact me at <a href="mailto:gemtunde@gmail.com">gemtunde@gmail.com</a></p>
 
