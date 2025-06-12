@@ -22,7 +22,7 @@
 <p>Some of the project i have built includes:</p>
 <ul>
   <li>  <a href="https://market.sabi.am/" target="_blank" rel="noreferrer"> 🌾 Sabi Market   </a> – I coordinated the frontend development of the sabi digital marketplace connecting farmers and buyers, focusing on intuitive UI components, smooth data fetching, and responsive design.</li>
-      <li>  <a href="https://www.katsumfb.com/" target="_blank" rel="noreferrer"> 🌾 Sabi Market   </a> – 🏦 Katsu Microfinance Bank – I worked on a financial services platform, collaborating with backend teams to integrate APIs and enforce a consistent, maintainable component architecture.</li>
+      <li>  <a href="https://www.katsumfb.com/" target="_blank" rel="noreferrer"> 🏦 Katsu Microfinance Bank   </a> – – I worked on a financial services platform, collaborating with backend teams to integrate APIs and enforce a consistent, maintainable component architecture.</li>
     <li>  <a href="https://reseller.hydrogenpay.com/" target="_blank" rel="noreferrer"> 🌾 Hydrogen Merchant Portal   </a> – 🏦 Built and maintained 3 production-scale portals — Wallet, Reseller App (reseller.hydrogenpay.com), and Reseller Back-Office — using Next.js and TypeScript, serving over 500,000+ active users with responsive, high- performance UIs.</li>
 </ul>
 <p>🌍 I'm based in Nigeria</p>
